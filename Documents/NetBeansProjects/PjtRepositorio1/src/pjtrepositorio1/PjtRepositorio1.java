@@ -17,9 +17,7 @@ public class PjtRepositorio1 {
     public static void main(String[] args) 
     {
         System.out.println("Hola mundo");
-        System.out.println("Hola bebés");
         System.out.println("Hola Héctor");
         System.out.println("Hola otra vez");
-    }
-    
+    }  
 }
